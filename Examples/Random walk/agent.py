@@ -8,3 +8,8 @@ def random_policy():
         return 'r'
     elif direction<=0.5:
         return 'l'
+
+
+
+
+
